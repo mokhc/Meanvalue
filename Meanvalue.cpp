@@ -1,7 +1,7 @@
 //@mokhc
 // Meanvalue.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
-// program to demonstrates the mean value used in financial calculation
+// program demonstrates the mean value used in financial calculation
 //header
 #include <iostream>
 #include <valarray>
